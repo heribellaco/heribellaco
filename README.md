@@ -7,12 +7,12 @@
 
 ## I'm a Writer & Developer!
 
-- 🔭 Check out my book: [The keratoconus User-Guide][book]!
+- 🔭 Check out my blog: [The keratoconus User-Guide][book]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2022 Goals: Learn more about javascript & Vscode
 - ⚡ Fun fact: I love to play guitar
-- 😻 Check out my personal page: [heribertorangel.com][mysite]
+- 😻 Check out my book & personal page: [heribertorangel.com][mysite]
 
 ### Connect with me:
 
