@@ -5,7 +5,7 @@
 [![Become A VS Code](https://img.shields.io/badge/-Learn%20%20VS%20Code%20Today%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vscode.com)
 
 
-## I'm a Writer, Developer, and Teacher!
+## I'm a Writer & Developer!
 
 - 🔭 Check out my book: [The keratoconus User-Guide][book]!
 - 🌱 I’m currently learning everything 🤣
