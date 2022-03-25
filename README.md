@@ -47,7 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 DevOps.js Conference 2022 LIVE](https://www.youtube.com/watch?v=_WS_8Pi1WQs)
+- [🔴 YouTube](https://www.youtube.com/)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
