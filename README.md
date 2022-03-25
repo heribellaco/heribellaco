@@ -16,8 +16,8 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/hrangelma/)
+[![website](./img/twitter-dark.svg)](https://twitter.com/hrangelma/)
 [![website](./img/facebook-light.png)](https://facebook.com/heribertorm/)
 [![website](./img/facebook-darkn.png)](https://facebook.com/heribertorm/)
 &nbsp;&nbsp;
