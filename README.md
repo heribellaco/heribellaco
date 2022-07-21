@@ -58,12 +58,12 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Is rubbing the eyes the cause of keratoconus?](https://www.keratoconusguide.com/blog/is-rubbing-the-cause-of-keratoconus/)
+- [Is rubbing the eyes the cause of keratoconus?](https://keratoconusguide.netlify.app/blog/is-rubbing-the-cause-of-keratoconus/)
 
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.keratoconusguide.com/blog/)
+➡️ [more blog posts...](https://keratoconusguide.netlify.app/blog/)
 
 ---
 
