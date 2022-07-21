@@ -75,7 +75,7 @@
 </details>
 
 [mysite]: https://heribertorangel.com/
-[book]: https://www.keratoconusguide.com/
+[book]: https://keratoconusguide.netlify.app/
 [twitter]: https://twitter.com/hrangelma/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
