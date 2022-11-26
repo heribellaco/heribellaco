@@ -10,7 +10,7 @@
 - 🔭 Check out my blog: [The keratoconus User-Guide][book]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2022 Goals: Learn more about javascript & Vscode
+- 🥅 2022 Goals: Learn more about Python, Javascript & VScode
 - ⚡ Fun fact: I love to play guitar
 - 😻 Check out my book & personal page: [heribertorangel.com][mysite]
 
